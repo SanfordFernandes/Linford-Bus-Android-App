@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">LinfordBus</string>
+    <string name="email_error">Invalid email</string>
+    <string name="pw_error">Password too weak</string>
+    <string name="adminpw_error">Invalid admin key</string>
+    <string name="UserFull_error">Should contain no whitespace and length > 6</string>
+    <string name="promptArrival">Select Arrival City</string>
+
+    <string-array name="departure">
+        <item>Select Departure City</item>
+        <item>Chennai</item>
+        <item>Bangaluru</item>
+        <item>Thiruvananthapuram</item>
+        <item>Hyderabad</item>
+        <item>Coimbatore</item>
+        <item>Kochi</item>
+        <item>Madurai</item>
+        <item>Mysore</item>
+        <item>Pondicherry</item>
+        <item>Mangalore</item>
+        <item>Visakhapatnam</item>
+        <item>Vijayawada</item>
+        <item>Tiruchirappalli</item>
+        <item>Nellore</item>
+    </string-array>
+
+    <string-array name="arrival">
+        <item>Select Arrival City</item>
+        <item>Chennai</item>
+        <item>Bangaluru</item>
+        <item>Thiruvananthapuram</item>
+        <item>Hyderabad</item>
+        <item>Coimbatore</item>
+        <item>Kochi</item>
+        <item>Madurai</item>
+        <item>Mysore</item>
+        <item>Pondicherry</item>
+        <item>Mangalore</item>
+        <item>Visakhapatnam</item>
+        <item>Vijayawada</item>
+        <item>Tiruchirappalli</item>
+        <item>Nellore</item>
+    </string-array>
+
+    <string-array name="seats">
+        <item>Select the number of seats</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+    </string-array>
+
+    <string-array name="select_seat30">
+        <item>Select a seat</item>
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+        <item>A7</item>
+        <item>A8</item>
+        <item>A9</item>
+        <item>A10</item>
+
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>B4</item>
+        <item>B5</item>
+        <item>B6</item>
+        <item>B7</item>
+        <item>B8</item>
+        <item>B9</item>
+        <item>B10</item>
+
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+        <item>C7</item>
+        <item>C8</item>
+        <item>C9</item>
+        <item>C10</item>
+    </string-array>
+
+    <string-array name="select_seat35">
+        <item>Select a seat</item>
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+        <item>A7</item>
+        <item>A8</item>
+        <item>A9</item>
+        <item>A10</item>
+
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>B4</item>
+        <item>B5</item>
+        <item>B6</item>
+        <item>B7</item>
+        <item>B8</item>
+        <item>B9</item>
+        <item>B10</item>
+
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+        <item>C7</item>
+        <item>C8</item>
+        <item>C9</item>
+        <item>C10</item>
+
+        <item>D1</item>
+        <item>D2</item>
+        <item>D3</item>
+        <item>D4</item>
+        <item>D5</item>
+    </string-array>
+
+    <string-array name="select_seat40">
+        <item>Select a seat</item>
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+        <item>A7</item>
+        <item>A8</item>
+        <item>A9</item>
+        <item>A10</item>
+
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>B4</item>
+        <item>B5</item>
+        <item>B6</item>
+        <item>B7</item>
+        <item>B8</item>
+        <item>B9</item>
+        <item>B10</item>
+
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+        <item>C7</item>
+        <item>C8</item>
+        <item>C9</item>
+        <item>C10</item>
+
+        <item>D1</item>
+        <item>D2</item>
+        <item>D3</item>
+        <item>D4</item>
+        <item>D5</item>
+        <item>D6</item>
+        <item>D7</item>
+        <item>D8</item>
+        <item>D9</item>
+        <item>D10</item>
+    </string-array>
+</resources>

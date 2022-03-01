@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.linfordbus">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_mainlogo"
+        android:label="Linford Travels"
+        android:roundIcon="@mipmap/ic_mainlogo_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LinfordBus">
+
+        <activity android:name=".Thank_you" />
+        <activity android:name=".SelectSeat40"/>
+        <activity android:name=".SelectSeat30" />
+        <activity android:name=".payment"/>
+        <activity android:name=".SelectSeat35" />
+        <activity android:name=".ViewBuses" />
+        <activity android:name=".FindBus" />
+        <activity android:name=".userSignin" />
+        <activity android:name=".userLogin" />
+        <activity android:name=".splashscreen2" />
+        <activity android:name=".startactivity" />
+        <activity android:name=".adminsignin" />
+        <activity android:name=".deletebus" />
+        <activity android:name=".updatebus" />
+        <activity android:name=".addbus" />
+        <activity android:name=".adminpanel" />
+        <activity android:name=".adminLogin" />
+        <activity android:name=".SortBus" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
